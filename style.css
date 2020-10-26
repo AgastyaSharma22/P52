@@ -1,0 +1,49 @@
+ol{
+    background-color: red;
+    
+}
+li{
+    color: white;
+}
+img{
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    background-color: red;
+    color: white;
+}
+h1{
+    background-color: black;
+    color: white;
+}
+.image{
+    display: flex;
+    flex-direction: row;
+}
+.info p{
+    padding-left:30px;   
+    text-align:center;
+}
+.info h1{
+    text-align:center;
+}
+.list li{
+    padding-left:30px;
+}
+.list a:link{
+    color: #ffffff;
+    text-decoration: none;
+}
+.list a:visited{
+    color:aquamarine;
+    text-decoration: none;
+}
+.list a:hover{
+    color: darkseagreen;
+}
+.contact p{
+    text-align: center;
+    color: darkblue;
+    background-color: yellow;
+}
